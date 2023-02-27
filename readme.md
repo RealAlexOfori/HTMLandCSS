@@ -1,4 +1,4 @@
-# E63's Classnotes
+# E63's Classnotes 🐼
 Welcome to your cohort's github repo! Here you will find all the notes and code examples that we have used in class, as well as any labs and homework assignments.
 
 # Python
