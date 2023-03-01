@@ -3,19 +3,19 @@ from src.functions import *
 
 class TestFunctions(unittest.TestCase):
 
-    @unittest.skip("comment out this line to run the test")
+    # @unittest.skip("comment out this line to run the test")
     def test_greet_catalan(self):
         result = greet_catalan("Mar")
         self.assertEqual("Hola, Mar", result)
 
 
-    @unittest.skip("comment out this line to run the test")
+    # @unittest.skip("comment out this line to run the test")
     def test_greet_mandarin(self):
         result = greet_mandarin("Sky")
         self.assertEqual("Ni hao, Sky", result)
 
 
-    @unittest.skip("comment out this line to run the test")
+    # @unittest.skip("comment out this line to run the test")
     def test_count_eggs(self):
         chickens = [
             { "name": "Margaret", "age": 2, "eggs": 0 },
@@ -28,7 +28,7 @@ class TestFunctions(unittest.TestCase):
         self.assertEqual(4, result)
 
 
-    @unittest.skip("comment out this line to run the test")
+    # @unittest.skip("comment out this line to run the test")
     def test_find_chicken_by_name(self):
         mars_chickens = [
             { "name": "The Knowledge", "age": 5, "eggs": 3 },
@@ -38,10 +38,10 @@ class TestFunctions(unittest.TestCase):
             { "name": "Keith", "age": 1, "eggs": 0 },
         ]
         found_chicken = find_chicken_by_name(mars_chickens, "Spaghetti")
-        self.assertEqual({ "name": "Spaghetti", "age": 1, "eggs": 2 }, found_chicken)
+        self.assertEqual({ "name": "Spaghetti", "age": 4, "eggs": 0 }, found_chicken)
 
     
-    @unittest.skip("comment out this line to run the test")
+    # @unittest.skip("comment out this line to run the test")
     def test_find_chicken_by_name__not_found(self):
         skys_chickens = [
             { "name": "Pea", "age": 2, "eggs": 1 },
