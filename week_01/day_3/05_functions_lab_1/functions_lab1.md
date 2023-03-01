@@ -24,15 +24,15 @@ python3 run_tests.py
 You can see that we have 10 failing tests. Let's pass the first one.
 
 ```python
-  #python_functions_test.py
+# python_functions_test.py
 
-  def test_return_10(self):
-      return_10_result = return_10()
-      self.assertEqual( 10, return_10_result )
+def test_return_10(self):
+    return_10_result = return_10()
+    self.assertEqual( 10, return_10_result )
 ```
 
 ```bash
-#terminal
+# terminal
 
 python3 run_tests.py
 ```
@@ -42,14 +42,14 @@ We have an expected failure - perfect.  What does the error say. Okay the method
 > fail, fail again, fail better
 
 ```python
-    #python_functions_test.py
+#python_functions_practice.py
 
-  def return_10():
+def return_10():
     pass
 ```
 
 ```bash
-#terminal
+# terminal
 
 python3 run_tests.py
 ```
@@ -67,7 +67,7 @@ def return_10():
 Now our test should pass.
 
 ```bash
-#terminal
+# terminal
 
 python3 run_tests.py
 ```
