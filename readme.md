@@ -35,3 +35,10 @@ Welcome to your cohort's github repo! Here you will find all the notes and code 
 * [Passing Unit Tests](week_01/day_3/03_passing_unit_tests/passing_unit_tests.md)
 * [Intro to Pair Programming](week_01/day_3/04_pair_programming.md)
 * **Paired Lab & Homework:** [Functions 1](week_01/day_3/05_functions_lab_1/functions_lab1.md)
+
+
+### Day 4 - Debugging, Modular Programming, more Testing & Pair Programming
+
+* [Debugging](week_01/day_4/01_debugging/)
+* [Modules and Packages](week_01/day_4/02_modules_packages/)
+* [Friends lab](week_01/day_4/03_friends_lab/)
