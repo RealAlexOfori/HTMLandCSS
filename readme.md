@@ -42,3 +42,23 @@ Welcome to your cohort's github repo! Here you will find all the notes and code 
 * [Debugging](week_01/day_4/01_debugging/)
 * [Modules and Packages](week_01/day_4/02_modules_packages/)
 * [Friends lab](week_01/day_4/03_friends_lab/)
+
+
+### Day 5 - Weekend Homework & Recap
+
+* PDA Induction Lesson
+* **Weekend homework:** [TDD Pet Shop](week_01/weekend_homework/homework_brief.md)
+* Recap
+
+
+
+## Week 2 - Further Python
+
+### Day 1 - Classes, CodeClan Lab & Diagrams
+
+* [Introduction to Classes](week_02/day_1/01_classes_intro/classes_intro.md)
+* [Diagrams](week_02/day_1/02_diagrams/intro_to_diagrams.md)
+* [Collaborating on Git](week_02/day_1/02_diagrams/collaborating_on_git.md)
+* **Paired Lab:** [Single Classes](week_02/day_1/03_single_class_lab/single_class_lab.md)
+* **Homework:** [Multiple Classes (Flipped)](week_02/day_1/04_homework/multiple_classes.md)
+* **PDA:** [List & Dictionary in a Program](week_02/day_1/list_dictionary_in_a_program.md)
