@@ -1,4 +1,4 @@
-# PDA Homework - List & Dictionary in a Program
+# PDA - List & Dictionary in a Program
 
 For the Personal Development Award (PDA) you are required to demonstrate your understanding of certain programming topics by collecting evidence (often code based) and writing about them.
 
