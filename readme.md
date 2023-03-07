@@ -57,7 +57,7 @@ Welcome to your cohort's github repo! Here you will find all the notes and code 
 ### Day 1 - Classes, CodeClan Lab & Diagrams
 
 * [Introduction to Classes](week_02/day_1/01_classes_intro/classes_intro.md)
-* [Diagrams](week_02/day_1/02_diagrams/intro_to_diagrams.md)
+* [Class Diagrams](week_02/day_1/02_diagrams/intro_to_diagrams.md)
 * [Collaborating on Git](week_02/day_1/02_diagrams/collaborating_on_git.md)
 * **Paired Lab:** [Single Classes](week_02/day_1/03_single_class_lab/single_class_lab.md)
 * **Homework:** [Multiple Classes (Flipped)](week_02/day_1/04_homework/multiple_classes.md)
@@ -69,4 +69,6 @@ Welcome to your cohort's github repo! Here you will find all the notes and code 
 * [Multiple Classes](week_02/day_2/multiple_classes/multiple_classes.md)
 * [Inheritance](week_02/day_2/inheritance/inheritance.md)
 * [Composition](week_02/day_2/composition/composition.md)
-* **Paired Lab:** [Bus Stop](week_02/day_2/multiple_classes_lab/bus_stop_lab.md)
+* [Object Diagrams](week_02/day_2/object_diagrams/object_diagrams.md)
+* **Paired Lab & Homework:** [Bus Stop](week_02/day_2/multiple_classes_lab/bus_stop_lab.md)
+* **PDA:** [Class & Object Diagram](week_02/day_2/class_object_diagram.md)
