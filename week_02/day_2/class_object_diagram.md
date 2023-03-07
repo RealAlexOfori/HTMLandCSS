@@ -1,4 +1,4 @@
-# PDA Homework - Class & Object Diagram
+# PDA - Class & Object Diagram
 
 For the Personal Development Award (PDA) you are required to demonstrate your understanding of certain software design topics by collecting evidence (often diagram based) and writing about them.
 
