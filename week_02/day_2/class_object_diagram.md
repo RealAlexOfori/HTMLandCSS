@@ -13,7 +13,7 @@ Include in your screenshot:
 
 The class diagram must contain:
 
-* At least two classes contained in rectangles with the title of the class at the top (capitalised)
+* At least two classes contained in rectangles with the title of the class at the top (UpperCamelCase)
 * At least one attribute for each class with types indicated (e.g. “name: string”, “age: int”)
 * Any methods that each class has
 * Lines or "relationships" to indicate the structure of the classes and how they interact with each other. Types of relationships, such as many-to-many, do not need to be indicated at this level
@@ -32,7 +32,7 @@ Include in your screenshot:
 
 The object diagram must contain:
 
-* At least two objects contained in rectangles with the title of the Class being used at the top (Capitalised). This should also have the specific object title (e.g. for a class titled "Member", the object diagram would be titled "Alex: Member")
+* At least two objects contained in rectangles with the title of the Class being used at the top (UpperCamelCase). This should also have the specific object title (e.g. for a class titled "Member", the object diagram would be titled "Alex: Member")
 * At least one attribute for each object with objects indicated (e.g. “name: Alex”, “age: 32”)
 * Lines or "relationships" to indicate the structure of the classes and how they interact with each other. Types of relationships, such as many-to-many, do not need to be indicated at this level
 
