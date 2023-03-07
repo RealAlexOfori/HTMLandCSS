@@ -62,3 +62,11 @@ Welcome to your cohort's github repo! Here you will find all the notes and code 
 * **Paired Lab:** [Single Classes](week_02/day_1/03_single_class_lab/single_class_lab.md)
 * **Homework:** [Multiple Classes (Flipped)](week_02/day_1/04_homework/multiple_classes.md)
 * **PDA:** [List & Dictionary in a Program](week_02/day_1/list_dictionary_in_a_program.md)
+
+
+### Day 2 - Multiple Classes, Bus Stop Lab & OOP
+
+* [Multiple Classes](week_02/day_2/multiple_classes/multiple_classes.md)
+* [Inheritance](week_02/day_2/inheritance/inheritance.md)
+* [Composition](week_02/day_2/composition/composition.md)
+* **Paired Lab:** [Bus Stop](week_02/day_2/multiple_classes_lab/bus_stop_lab.md)
