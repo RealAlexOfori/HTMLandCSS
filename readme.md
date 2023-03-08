@@ -72,3 +72,10 @@ Welcome to your cohort's github repo! Here you will find all the notes and code 
 * [Object Diagrams](week_02/day_2/object_diagrams/object_diagrams.md)
 * **Paired Lab & Homework:** [Bus Stop](week_02/day_2/multiple_classes_lab/bus_stop_lab.md)
 * **PDA:** [Class & Object Diagram](week_02/day_2/class_object_diagram.md)
+
+### Day 3 - Testing, List Comprehension & All-Day Lab
+
+* [Writing Tests](week_02/day_3/01_testing/coffee_shop_testing/testing.md)
+* [List Comprehension](week_02/day_3/02_list_comprehension/list_comprehension.md)
+* **All-day Lab/Homework:** [Pub](day_3/03_testing_lab/pub/testing_lab.md) [Coffee Shop](week_02/day_3/03_testing_lab/coffee_shop/testing_lab.md)
+
