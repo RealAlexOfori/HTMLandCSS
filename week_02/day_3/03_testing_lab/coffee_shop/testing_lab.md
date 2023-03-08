@@ -32,7 +32,9 @@ Advanced extensions:
   - Create a `Food` class, that has a `name`, `price` and `rejuvenation_level`. Each time a `Customer` buys `Food`, their `energy` should go down by the `rejuvenation_level`
   - Coffee Shop can have a `stock` (maybe a Dictionary?) to keep track the amount of `drinks` available (Hard! Might need to change the drinks List to a drinks Dictionary)
   - Coffee Shop can have a `stock_value` method to check the total value of its `drinks`
-  - Perhaps `Customer`s can be served in groups, not just individually. But the whole group should get denied service if one of the parties has too much `energy` - I know, this is an intense coffee shop! **Hint:** This could be solved with list comprehension, but a conditional for loop would do it too!
+  - Coffee Shop can have a `drink_names` method that returns a list of the names of every drink the coffee shop holds. **Hint:** This could be solved with list comprehension, but a conditional for loop would do it too!
+  - Coffee Shop can have an `drinks_customer_can_afford` function which takes in a customer and returns a list of the drinks they can afford. **Hint:** This could be solved with list comprehension, but a conditional for loop would do it too!
+  - Perhaps `Customer`s can be served in groups, not just individually. But the whole group should get denied service if one of the parties has too much `energy` - I know, this is an intense coffee shop! Feel free to assume that each customer will order the drink that corresponds to their index position i.e. customers[0] will get served drinks[0]. **Hint:** You probably want more than one method. This could be solved with list comprehension, but a conditional for loop would do it too!
 
 ### Files and Directories
 
