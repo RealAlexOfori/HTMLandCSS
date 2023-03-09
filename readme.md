@@ -77,5 +77,10 @@ Welcome to your cohort's github repo! Here you will find all the notes and code 
 
 * [Writing Tests](week_02/day_3/01_testing/coffee_shop_testing/testing.md)
 * [List Comprehension](week_02/day_3/02_list_comprehension/list_comprehension.md)
-* **All-day Lab/Homework:** [Pub](day_3/03_testing_lab/pub/testing_lab.md) [Coffee Shop](week_02/day_3/03_testing_lab/coffee_shop/testing_lab.md)
+* **All-day Lab/Homework:** [Pub](week_02/day_3/03_testing_lab/pub/testing_lab.md) [Coffee Shop](week_02/day_3/03_testing_lab/coffee_shop/testing_lab.md)
 
+### Day 4 - TDD
+
+* [TDD](week_02/day_4/tdd/)
+* [TDD Lab](week_02/day_4/tdd_lab)
+* [Mob Fizzbuzz](week_02/day_4/mob_fizzbuzz)
