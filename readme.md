@@ -84,3 +84,7 @@ Welcome to your cohort's github repo! Here you will find all the notes and code 
 * [TDD](week_02/day_4/tdd/)
 * [TDD Lab](week_02/day_4/tdd_lab)
 * [Mob Fizzbuzz](week_02/day_4/mob_fizzbuzz)
+
+### Day 5 - Weekend Homework
+
+* [Weekend homework](week_02/weekend_homework)
