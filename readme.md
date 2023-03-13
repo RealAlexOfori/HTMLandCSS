@@ -88,3 +88,10 @@ Welcome to your cohort's github repo! Here you will find all the notes and code 
 ### Day 5 - Weekend Homework
 
 * [Weekend homework](week_02/weekend_homework)
+
+## Week 3 - Web Programming
+
+### Day 1
+
+* [HTML intro](week_03/day_1/01_html/)
+* [TDD Lab](week_03/day_1/02_css)
