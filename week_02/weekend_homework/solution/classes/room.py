@@ -19,7 +19,7 @@ class Room:
     def check_in_guest(self, guest):
         if self.free_spaces() > 0 and guest.can_afford(self.fee):
            guest.pay(self.fee)
-           self.till += self.fee
+           self.add_to_till(self.fee)
            self.guests.append(guest)
 
     def check_in_guests(self, guests):
@@ -28,7 +28,8 @@ class Room:
                 self.check_in_guest(guest)
 
     def check_out_guest(self, guest):
-        self.guests.remove(guest)
+        if guest in self.guests:
+            self.guests.remove(guest)
 
     def add_song(self, song):
         self.songs.append(song)

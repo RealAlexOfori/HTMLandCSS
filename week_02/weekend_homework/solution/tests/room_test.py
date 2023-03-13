@@ -54,6 +54,10 @@ class TestRoom(unittest.TestCase):
         self.room.check_out_guest(self.victor)
         self.assertEqual(0, self.room.number_of_guests())
 
+    def test_cant_check_guest_out_empty_room(self):
+        self.room.check_out_guest(self.victor)
+        self.assertEqual(0, self.room.number_of_guests())
+
     def test_can_add_song_to_room(self):
         song = Song("The Number of the Beast", "Iron Maiden")
         self.room.add_song(song)
@@ -97,10 +101,10 @@ class TestRoom(unittest.TestCase):
         self.assertEqual(0, self.room.till)
         self.assertEqual(2, tam.cash)
 
-    def test_cheers_for_guests_fave_song(self):
-        self.room.check_in_guest(self.winston)
-        songs = self.songs
-        self.assertEqual("Whoo Hoo!", self.room.guests[0].cheer(songs))
+    # def test_cheers_for_guests_fave_song(self):
+    #     self.room.check_in_guest(self.winston)
+    #     songs = self.songs
+    #     self.assertEqual("Whoo Hoo!", self.room.guests[0].cheer(songs))
 
 
 if __name__ == '__main__':

@@ -15,8 +15,8 @@ class TestSong(unittest.TestCase):
         self.assertEqual("AC/DC", self.song.artist)
 
     def test_equals_returns_true(self):
-        song = Song("Highway To Hell", "AC/DC")
-        result = self.song.equals(song)
+        inputted_song = Song("Highway To Hell", "AC/DC")
+        result = self.song.equals(inputted_song)
         self.assertEqual(True, result)
 
     def test_equals_title_different_returns_false(self):

@@ -3,5 +3,5 @@ class Song:
         self.title = title
         self.artist = artist
 
-    def equals(self, song):
-        return song.title == self.title and song.artist == self.artist
+    def equals(self, squirrel):
+        return squirrel.title == self.title and squirrel.artist == self.artist
